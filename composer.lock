@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "d23bec63e62507766a7dd25c467fef40",
+    "content-hash": "67cabb040057f5e3f8d2e0d5931dee98",
     "packages": [
         {
             "name": "amzn/amazon-pay-and-login-magento-2-module",
@@ -786,11 +786,11 @@
         },
         {
             "name": "fastly/magento2",
-            "version": "1.2.53",
+            "version": "1.2.54",
             "source": {
                 "type": "git",
                 "url": "https://github.com/fastly/fastly-magento2.git",
-                "reference": "b59901d4e770383e032a4803ee85507ceff16c13"
+                "reference": "59f1661e1ec333014a1132971780b98f4866ac70"
             },
             "require": {
                 "magento/framework": ">=100.0.0",
@@ -813,7 +813,7 @@
                 "BSD-3-Clause"
             ],
             "description": "Fastly CDN Module for Magento 2.x",
-            "time": "2018-05-07T03:41:07+00:00"
+            "time": "2018-05-17T13:58:17+00:00"
         },
         {
             "name": "graylog2/gelf-php",
