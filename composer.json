@@ -44,7 +44,8 @@
         "magento/module-gift-registry-sample-data": "100.2.*",
         "magento/module-multiple-wishlist-sample-data": "100.2.*",
         "magento/module-swatches-sample-data": "100.2.*",
-        "magento/sample-data-media": "100.2.*"
+        "magento/sample-data-media": "100.2.*",
+        "shipperhq/module-shipper": "^20.20"
     },
     "config": {
         "use-include-path": true
